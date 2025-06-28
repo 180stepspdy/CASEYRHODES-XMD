@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "",Caseyrhodes~wj0hXR6A#0BdtLjsJGnRtv7xLo5Opx76pc_nNOYzKJqLpSUuBt20
 // add your Session Id 
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
@@ -21,7 +21,7 @@ DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // true if want welcome and goodbye msg in groups    
 ADMIN_EVENTS: process.env.ADMIN_EVENTS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "254112192119",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "254732849780",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "✦ CASEYRHODES ✦ XMD ✦",
 // add bot owner name
